@@ -4,7 +4,7 @@ Une petite visualisation des données des cessions de l'état sur toute l'etendu
 Sur la page vous trouverez 3 diagrammes.
 
 
-INSTALLATION : télécharger le dossier du code puis afficher la page
+INSTALLATION : Cliquez sur "CODE" -> Download.zip
 
 EXPLICATION:
 
